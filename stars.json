@@ -1,128 +1,128 @@
 [
   {
     "full_name": "umami-software/umami",
-    "stargazers_count": 12412,
-    "open_issues_count": 66,
-    "forks_count": 1867
+    "stargazers_count": 12484,
+    "open_issues_count": 61,
+    "forks_count": 1882
   },
   {
     "full_name": "JohnEdChristensen/WebbCompare",
     "stargazers_count": 379,
     "open_issues_count": 7,
-    "forks_count": 26
+    "forks_count": 25
   },
   {
     "full_name": "honkit/honkit",
-    "stargazers_count": 2264,
+    "stargazers_count": 2266,
     "open_issues_count": 48,
     "forks_count": 155
   },
   {
     "full_name": "troxler/awesome-css-frameworks",
-    "stargazers_count": 5153,
+    "stargazers_count": 5165,
     "open_issues_count": 5,
-    "forks_count": 353
+    "forks_count": 354
   },
   {
     "full_name": "boltgolt/howdy",
-    "stargazers_count": 4047,
-    "open_issues_count": 133,
-    "forks_count": 236
+    "stargazers_count": 4052,
+    "open_issues_count": 132,
+    "forks_count": 235
   },
   {
     "full_name": "opencast/opencast",
     "stargazers_count": 289,
-    "open_issues_count": 185,
+    "open_issues_count": 189,
     "forks_count": 192
   },
   {
     "full_name": "Guake/guake",
-    "stargazers_count": 3992,
-    "open_issues_count": 352,
+    "stargazers_count": 3995,
+    "open_issues_count": 355,
     "forks_count": 609
   },
   {
     "full_name": "tailscale/tailscale",
-    "stargazers_count": 8531,
-    "open_issues_count": 950,
-    "forks_count": 531
+    "stargazers_count": 8575,
+    "open_issues_count": 961,
+    "forks_count": 536
   },
   {
     "full_name": "gitlabhq/terraform-provider-gitlab",
     "stargazers_count": 332,
-    "open_issues_count": 104,
-    "forks_count": 306
+    "open_issues_count": 106,
+    "forks_count": 307
   },
   {
     "full_name": "xanzy/go-gitlab",
-    "stargazers_count": 1739,
-    "open_issues_count": 31,
-    "forks_count": 743
+    "stargazers_count": 1744,
+    "open_issues_count": 32,
+    "forks_count": 746
   },
   {
     "full_name": "cwackerfuss/react-wordle",
-    "stargazers_count": 2269,
-    "open_issues_count": 37,
+    "stargazers_count": 2274,
+    "open_issues_count": 35,
     "forks_count": 1862
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 56959,
-    "open_issues_count": 15,
-    "forks_count": 6301
+    "stargazers_count": 57179,
+    "open_issues_count": 16,
+    "forks_count": 6324
   },
   {
     "full_name": "thedevs-network/kutt",
-    "stargazers_count": 6143,
-    "open_issues_count": 162,
-    "forks_count": 720
+    "stargazers_count": 6148,
+    "open_issues_count": 163,
+    "forks_count": 721
   },
   {
     "full_name": "evidentlyai/evidently",
-    "stargazers_count": 2601,
-    "open_issues_count": 27,
-    "forks_count": 264
+    "stargazers_count": 2611,
+    "open_issues_count": 28,
+    "forks_count": 266
   },
   {
     "full_name": "requarks/wiki",
-    "stargazers_count": 18345,
-    "open_issues_count": 128,
-    "forks_count": 2036
+    "stargazers_count": 18371,
+    "open_issues_count": 129,
+    "forks_count": 2037
   },
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 45666,
-    "open_issues_count": 103,
-    "forks_count": 3105
+    "stargazers_count": 45766,
+    "open_issues_count": 96,
+    "forks_count": 3112
   },
   {
     "full_name": "astralapp/astral",
-    "stargazers_count": 2880,
+    "stargazers_count": 2882,
     "open_issues_count": 41,
     "forks_count": 136
   },
   {
     "full_name": "Lissy93/dashy",
-    "stargazers_count": 7033,
-    "open_issues_count": 47,
-    "forks_count": 416
+    "stargazers_count": 7067,
+    "open_issues_count": 51,
+    "forks_count": 420
   },
   {
     "full_name": "chetachiezikeuzor/Yin-and-Yang-Theme",
-    "stargazers_count": 371,
+    "stargazers_count": 372,
     "open_issues_count": 44,
     "forks_count": 28
   },
   {
     "full_name": "louislam/uptime-kuma",
-    "stargazers_count": 20181,
+    "stargazers_count": 20260,
     "open_issues_count": 700,
-    "forks_count": 1605
+    "forks_count": 1608
   },
   {
     "full_name": "mefechoel/svelte-navigator",
-    "stargazers_count": 365,
-    "open_issues_count": 27,
+    "stargazers_count": 367,
+    "open_issues_count": 28,
     "forks_count": 18
   },
   {
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "jdah/minecraft-weekend",
-    "stargazers_count": 2878,
+    "stargazers_count": 2885,
     "open_issues_count": 31,
     "forks_count": 325
   },
   {
     "full_name": "theonedev/onedev",
-    "stargazers_count": 9418,
+    "stargazers_count": 9452,
     "open_issues_count": 0,
-    "forks_count": 629
+    "forks_count": 631
   },
   {
     "full_name": "joenash/awesome-infinidash",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "obsidianmd/obsidian-releases",
-    "stargazers_count": 2790,
-    "open_issues_count": 61,
-    "forks_count": 661
+    "stargazers_count": 2811,
+    "open_issues_count": 63,
+    "forks_count": 665
   },
   {
     "full_name": "meseck/night-owl-obsidian-theme",
