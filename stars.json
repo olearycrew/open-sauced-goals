@@ -1,105 +1,105 @@
 [
   {
     "full_name": "bluesky-social/social-app",
-    "stargazers_count": 2935,
-    "open_issues_count": 162,
-    "forks_count": 406
+    "stargazers_count": 2941,
+    "open_issues_count": 165,
+    "forks_count": 412
   },
   {
     "full_name": "pingdotgg/uploadthing",
-    "stargazers_count": 2261,
-    "open_issues_count": 24,
+    "stargazers_count": 2273,
+    "open_issues_count": 22,
     "forks_count": 133
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4623,
-    "open_issues_count": 126,
-    "forks_count": 301
+    "stargazers_count": 4684,
+    "open_issues_count": 114,
+    "forks_count": 305
   },
   {
     "full_name": "logickworkshop/Flipper-IRDB",
-    "stargazers_count": 1321,
+    "stargazers_count": 1333,
     "open_issues_count": 0,
     "forks_count": 247
   },
   {
     "full_name": "projectdiscovery/aix",
-    "stargazers_count": 187,
+    "stargazers_count": 188,
     "open_issues_count": 8,
     "forks_count": 13
   },
   {
     "full_name": "projectdiscovery/cloudlist",
-    "stargazers_count": 624,
+    "stargazers_count": 625,
     "open_issues_count": 14,
     "forks_count": 88
   },
   {
     "full_name": "projectdiscovery/nuclei-templates",
-    "stargazers_count": 6590,
-    "open_issues_count": 133,
-    "forks_count": 2054
+    "stargazers_count": 6599,
+    "open_issues_count": 136,
+    "forks_count": 2061
   },
   {
     "full_name": "lukevella/rallly",
-    "stargazers_count": 2223,
-    "open_issues_count": 15,
-    "forks_count": 206
+    "stargazers_count": 2245,
+    "open_issues_count": 17,
+    "forks_count": 209
   },
   {
     "full_name": "projectdiscovery/pdtm",
-    "stargazers_count": 482,
-    "open_issues_count": 11,
-    "forks_count": 38
+    "stargazers_count": 483,
+    "open_issues_count": 7,
+    "forks_count": 39
   },
   {
     "full_name": "projectdiscovery/subfinder",
-    "stargazers_count": 7864,
+    "stargazers_count": 7886,
     "open_issues_count": 25,
-    "forks_count": 1075
+    "forks_count": 1077
   },
   {
     "full_name": "projectdiscovery/openrisk",
-    "stargazers_count": 97,
+    "stargazers_count": 104,
     "open_issues_count": 4,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "meltano/meltano",
-    "stargazers_count": 1068,
-    "open_issues_count": 467,
-    "forks_count": 100
+    "stargazers_count": 1072,
+    "open_issues_count": 471,
+    "forks_count": 101
   },
   {
     "full_name": "projectdiscovery/katana",
-    "stargazers_count": 6789,
-    "open_issues_count": 54,
-    "forks_count": 349
+    "stargazers_count": 6809,
+    "open_issues_count": 62,
+    "forks_count": 350
   },
   {
     "full_name": "fauxpilot/fauxpilot",
-    "stargazers_count": 12672,
+    "stargazers_count": 12717,
     "open_issues_count": 61,
-    "forks_count": 535
+    "forks_count": 537
   },
   {
     "full_name": "slsa-framework/slsa",
-    "stargazers_count": 1224,
-    "open_issues_count": 142,
+    "stargazers_count": 1227,
+    "open_issues_count": 140,
     "forks_count": 186
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 18558,
-    "open_issues_count": 41,
-    "forks_count": 804
+    "stargazers_count": 18622,
+    "open_issues_count": 40,
+    "forks_count": 803
   },
   {
     "full_name": "sigstore/cosign",
-    "stargazers_count": 3459,
-    "open_issues_count": 216,
-    "forks_count": 422
+    "stargazers_count": 3469,
+    "open_issues_count": 217,
+    "forks_count": 424
   },
   {
     "full_name": "josephernest/writing",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "umami-software/umami",
-    "stargazers_count": 16294,
-    "open_issues_count": 123,
-    "forks_count": 2850
+    "stargazers_count": 16331,
+    "open_issues_count": 120,
+    "forks_count": 2861
   },
   {
     "full_name": "JohnEdChristensen/WebbCompare",
@@ -121,39 +121,39 @@
   },
   {
     "full_name": "honkit/honkit",
-    "stargazers_count": 2616,
-    "open_issues_count": 57,
-    "forks_count": 197
+    "stargazers_count": 2620,
+    "open_issues_count": 54,
+    "forks_count": 198
   },
   {
     "full_name": "troxler/awesome-css-frameworks",
-    "stargazers_count": 6328,
+    "stargazers_count": 6342,
     "open_issues_count": 7,
     "forks_count": 398
   },
   {
     "full_name": "boltgolt/howdy",
-    "stargazers_count": 4776,
-    "open_issues_count": 180,
+    "stargazers_count": 4787,
+    "open_issues_count": 182,
     "forks_count": 266
   },
   {
     "full_name": "opencast/opencast",
     "stargazers_count": 335,
-    "open_issues_count": 242,
+    "open_issues_count": 244,
     "forks_count": 212
   },
   {
     "full_name": "Guake/guake",
     "stargazers_count": 4222,
-    "open_issues_count": 380,
-    "forks_count": 614
+    "open_issues_count": 379,
+    "forks_count": 615
   },
   {
     "full_name": "tailscale/tailscale",
-    "stargazers_count": 12796,
-    "open_issues_count": 1276,
-    "forks_count": 879
+    "stargazers_count": 12843,
+    "open_issues_count": 1290,
+    "forks_count": 881
   },
   {
     "full_name": "gitlabhq/terraform-provider-gitlab",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "xanzy/go-gitlab",
-    "stargazers_count": 2047,
-    "open_issues_count": 45,
-    "forks_count": 845
+    "stargazers_count": 2048,
+    "open_issues_count": 36,
+    "forks_count": 846
   },
   {
     "full_name": "cwackerfuss/react-wordle",
-    "stargazers_count": 2509,
+    "stargazers_count": 2511,
     "open_issues_count": 31,
-    "forks_count": 2022
+    "forks_count": 2024
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 71418,
+    "stargazers_count": 71487,
     "open_issues_count": 11,
-    "forks_count": 7823
+    "forks_count": 7835
   }
 ]
