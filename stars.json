@@ -1,9 +1,9 @@
 [
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 21364,
-    "open_issues_count": 1553,
-    "forks_count": 1275
+    "stargazers_count": 21420,
+    "open_issues_count": 1560,
+    "forks_count": 1282
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "anatolyzenkov/button-stealer",
-    "stargazers_count": 560,
+    "stargazers_count": 561,
     "open_issues_count": 7,
     "forks_count": 17
   },
@@ -31,19 +31,19 @@
   },
   {
     "full_name": "jordanbaird/Ice",
-    "stargazers_count": 12877,
+    "stargazers_count": 12975,
     "open_issues_count": 78,
     "forks_count": 238
   },
   {
     "full_name": "httpie/cli",
-    "stargazers_count": 33615,
-    "open_issues_count": 187,
-    "forks_count": 3674
+    "stargazers_count": 33650,
+    "open_issues_count": 188,
+    "forks_count": 3676
   },
   {
     "full_name": "Lissy93/wapalyzer",
-    "stargazers_count": 239,
+    "stargazers_count": 241,
     "open_issues_count": 0,
     "forks_count": 41
   },
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 25947,
-    "open_issues_count": 1113,
-    "forks_count": 1190
+    "stargazers_count": 26045,
+    "open_issues_count": 1106,
+    "forks_count": 1194
   },
   {
     "full_name": "omnivore-app/omnivore",
-    "stargazers_count": 12728,
-    "open_issues_count": 603,
-    "forks_count": 640
+    "stargazers_count": 12753,
+    "open_issues_count": 608,
+    "forks_count": 641
   },
   {
     "full_name": "achingbrain/terminatorator",
@@ -85,31 +85,31 @@
   },
   {
     "full_name": "ThePrimeagen/undefined",
-    "stargazers_count": 296,
+    "stargazers_count": 298,
     "open_issues_count": 2,
     "forks_count": 13
   },
   {
     "full_name": "bluesky-social/social-app",
-    "stargazers_count": 8346,
-    "open_issues_count": 1014,
-    "forks_count": 1111
+    "stargazers_count": 8374,
+    "open_issues_count": 1022,
+    "forks_count": 1118
   },
   {
     "full_name": "pingdotgg/uploadthing",
-    "stargazers_count": 4154,
+    "stargazers_count": 4161,
     "open_issues_count": 41,
     "forks_count": 307
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 6187,
-    "open_issues_count": 271,
-    "forks_count": 432
+    "stargazers_count": 6197,
+    "open_issues_count": 270,
+    "forks_count": 436
   },
   {
     "full_name": "logickworkshop/Flipper-IRDB",
-    "stargazers_count": 2037,
+    "stargazers_count": 2043,
     "open_issues_count": 1,
     "forks_count": 312
   },
@@ -121,33 +121,33 @@
   },
   {
     "full_name": "projectdiscovery/cloudlist",
-    "stargazers_count": 849,
+    "stargazers_count": 850,
     "open_issues_count": 9,
     "forks_count": 105
   },
   {
     "full_name": "projectdiscovery/nuclei-templates",
-    "stargazers_count": 9123,
-    "open_issues_count": 182,
-    "forks_count": 2602
+    "stargazers_count": 9146,
+    "open_issues_count": 198,
+    "forks_count": 2603
   },
   {
     "full_name": "lukevella/rallly",
-    "stargazers_count": 3505,
-    "open_issues_count": 23,
-    "forks_count": 333
+    "stargazers_count": 3519,
+    "open_issues_count": 22,
+    "forks_count": 335
   },
   {
     "full_name": "projectdiscovery/pdtm",
-    "stargazers_count": 716,
+    "stargazers_count": 717,
     "open_issues_count": 4,
     "forks_count": 52
   },
   {
     "full_name": "projectdiscovery/subfinder",
-    "stargazers_count": 10071,
+    "stargazers_count": 10096,
     "open_issues_count": 11,
-    "forks_count": 1262
+    "forks_count": 1266
   },
   {
     "full_name": "projectdiscovery/openrisk",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "meltano/meltano",
-    "stargazers_count": 1807,
-    "open_issues_count": 436,
+    "stargazers_count": 1810,
+    "open_issues_count": 437,
     "forks_count": 159
   },
   {
     "full_name": "projectdiscovery/katana",
-    "stargazers_count": 10964,
-    "open_issues_count": 83,
-    "forks_count": 583
+    "stargazers_count": 11032,
+    "open_issues_count": 89,
+    "forks_count": 585
   },
   {
     "full_name": "fauxpilot/fauxpilot",
-    "stargazers_count": 14566,
+    "stargazers_count": 14574,
     "open_issues_count": 63,
-    "forks_count": 618
+    "forks_count": 620
   },
   {
     "full_name": "slsa-framework/slsa",
-    "stargazers_count": 1542,
-    "open_issues_count": 211,
+    "stargazers_count": 1545,
+    "open_issues_count": 216,
     "forks_count": 223
   }
 ]
