@@ -1,33 +1,33 @@
 [
   {
     "full_name": "jlowin/fastmcp",
-    "stargazers_count": 661,
-    "open_issues_count": 14,
-    "forks_count": 30
+    "stargazers_count": 685,
+    "open_issues_count": 15,
+    "forks_count": 33
   },
   {
     "full_name": "PrefectHQ/prefect",
-    "stargazers_count": 17826,
-    "open_issues_count": 978,
-    "forks_count": 1664
+    "stargazers_count": 17857,
+    "open_issues_count": 976,
+    "forks_count": 1667
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 22681,
+    "stargazers_count": 22754,
     "open_issues_count": 1669,
-    "forks_count": 1372
+    "forks_count": 1377
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
-    "stargazers_count": 715,
+    "stargazers_count": 716,
     "open_issues_count": 0,
     "forks_count": 101
   },
   {
     "full_name": "anatolyzenkov/button-stealer",
-    "stargazers_count": 598,
+    "stargazers_count": 601,
     "open_issues_count": 7,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "full_name": "render-examples/go-gin-web-server",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "jordanbaird/Ice",
-    "stargazers_count": 15132,
-    "open_issues_count": 104,
-    "forks_count": 277
+    "stargazers_count": 15205,
+    "open_issues_count": 108,
+    "forks_count": 281
   },
   {
     "full_name": "httpie/cli",
-    "stargazers_count": 34212,
+    "stargazers_count": 34228,
     "open_issues_count": 178,
     "forks_count": 3690
   },
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 28762,
-    "open_issues_count": 1179,
-    "forks_count": 1345
+    "stargazers_count": 28860,
+    "open_issues_count": 1181,
+    "forks_count": 1357
   },
   {
     "full_name": "omnivore-app/omnivore",
-    "stargazers_count": 14096,
+    "stargazers_count": 14105,
     "open_issues_count": 414,
-    "forks_count": 1053
+    "forks_count": 1056
   },
   {
     "full_name": "achingbrain/terminatorator",
@@ -103,27 +103,27 @@
   },
   {
     "full_name": "bluesky-social/social-app",
-    "stargazers_count": 14127,
-    "open_issues_count": 1734,
-    "forks_count": 1830
+    "stargazers_count": 14205,
+    "open_issues_count": 1773,
+    "forks_count": 1839
   },
   {
     "full_name": "pingdotgg/uploadthing",
-    "stargazers_count": 4308,
+    "stargazers_count": 4327,
     "open_issues_count": 34,
-    "forks_count": 321
+    "forks_count": 323
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 7783,
-    "open_issues_count": 421,
-    "forks_count": 570
+    "stargazers_count": 7837,
+    "open_issues_count": 420,
+    "forks_count": 574
   },
   {
     "full_name": "logickworkshop/Flipper-IRDB",
-    "stargazers_count": 2124,
+    "stargazers_count": 2129,
     "open_issues_count": 1,
-    "forks_count": 313
+    "forks_count": 314
   },
   {
     "full_name": "projectdiscovery/aix",
@@ -134,32 +134,32 @@
   {
     "full_name": "projectdiscovery/cloudlist",
     "stargazers_count": 873,
-    "open_issues_count": 10,
+    "open_issues_count": 12,
     "forks_count": 106
   },
   {
     "full_name": "projectdiscovery/nuclei-templates",
-    "stargazers_count": 9468,
-    "open_issues_count": 208,
-    "forks_count": 2668
+    "stargazers_count": 9482,
+    "open_issues_count": 191,
+    "forks_count": 2675
   },
   {
     "full_name": "lukevella/rallly",
-    "stargazers_count": 3785,
-    "open_issues_count": 21,
-    "forks_count": 354
+    "stargazers_count": 3796,
+    "open_issues_count": 20,
+    "forks_count": 355
   },
   {
     "full_name": "projectdiscovery/pdtm",
-    "stargazers_count": 750,
+    "stargazers_count": 757,
     "open_issues_count": 4,
-    "forks_count": 56
+    "forks_count": 58
   },
   {
     "full_name": "projectdiscovery/subfinder",
-    "stargazers_count": 10441,
-    "open_issues_count": 12,
-    "forks_count": 1296
+    "stargazers_count": 10449,
+    "open_issues_count": 17,
+    "forks_count": 1295
   },
   {
     "full_name": "projectdiscovery/openrisk",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "meltano/meltano",
-    "stargazers_count": 1880,
-    "open_issues_count": 368,
+    "stargazers_count": 1882,
+    "open_issues_count": 376,
     "forks_count": 167
   },
   {
     "full_name": "projectdiscovery/katana",
-    "stargazers_count": 12690,
+    "stargazers_count": 12709,
     "open_issues_count": 64,
     "forks_count": 658
   }
