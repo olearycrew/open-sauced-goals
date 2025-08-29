@@ -1,21 +1,21 @@
 [
   {
     "full_name": "dannymcc/Granola-to-Obsidian",
-    "stargazers_count": 25,
-    "open_issues_count": 2,
+    "stargazers_count": 28,
+    "open_issues_count": 3,
     "forks_count": 3
   },
   {
     "full_name": "satnaing/terminal-portfolio",
-    "stargazers_count": 653,
+    "stargazers_count": 656,
     "open_issues_count": 1,
-    "forks_count": 129
+    "forks_count": 130
   },
   {
     "full_name": "refined-github/refined-github",
-    "stargazers_count": 29045,
-    "open_issues_count": 136,
-    "forks_count": 1601
+    "stargazers_count": 29069,
+    "open_issues_count": 133,
+    "forks_count": 1602
   },
   {
     "full_name": "joelacus/RedditEnhancer",
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "IBM/ibmdotcom-tutorials",
-    "stargazers_count": 163,
+    "stargazers_count": 167,
     "open_issues_count": 1,
-    "forks_count": 60
+    "forks_count": 64
   },
   {
     "full_name": "openemr/openemr",
-    "stargazers_count": 3636,
-    "open_issues_count": 462,
-    "forks_count": 2461
+    "stargazers_count": 3645,
+    "open_issues_count": 463,
+    "forks_count": 2464
   },
   {
     "full_name": "Kilo-Org/kilocode",
-    "stargazers_count": 7195,
-    "open_issues_count": 238,
-    "forks_count": 747
+    "stargazers_count": 7321,
+    "open_issues_count": 275,
+    "forks_count": 776
   },
   {
     "full_name": "mattburesh/bluesky-shortcuts",
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "t3dotgg/vsc-material-but-i-wont-sue-you",
-    "stargazers_count": 673,
+    "stargazers_count": 676,
     "open_issues_count": 15,
     "forks_count": 84
   },
   {
     "full_name": "jlowin/fastmcp",
-    "stargazers_count": 16768,
-    "open_issues_count": 163,
-    "forks_count": 1118
+    "stargazers_count": 16929,
+    "open_issues_count": 169,
+    "forks_count": 1133
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 28643,
-    "open_issues_count": 2338,
-    "forks_count": 1871
+    "stargazers_count": 28748,
+    "open_issues_count": 2342,
+    "forks_count": 1884
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "anatolyzenkov/button-stealer",
-    "stargazers_count": 702,
+    "stargazers_count": 703,
     "open_issues_count": 7,
     "forks_count": 25
   },
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "jordanbaird/Ice",
-    "stargazers_count": 21466,
-    "open_issues_count": 174,
-    "forks_count": 412
+    "stargazers_count": 21525,
+    "open_issues_count": 177,
+    "forks_count": 414
   },
   {
     "full_name": "httpie/cli",
-    "stargazers_count": 36436,
+    "stargazers_count": 36464,
     "open_issues_count": 211,
-    "forks_count": 3755
+    "forks_count": 3760
   },
   {
     "full_name": "Lissy93/wapalyzer",
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 36407,
-    "open_issues_count": 1491,
-    "forks_count": 1814
+    "stargazers_count": 36475,
+    "open_issues_count": 1494,
+    "forks_count": 1819
   },
   {
     "full_name": "omnivore-app/omnivore",
-    "stargazers_count": 15386,
+    "stargazers_count": 15396,
     "open_issues_count": 352,
     "forks_count": 1205
   },
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "bluesky-social/social-app",
-    "stargazers_count": 16643,
-    "open_issues_count": 2048,
-    "forks_count": 2388
+    "stargazers_count": 16659,
+    "open_issues_count": 2036,
+    "forks_count": 2395
   },
   {
     "full_name": "pingdotgg/uploadthing",
-    "stargazers_count": 4875,
+    "stargazers_count": 4880,
     "open_issues_count": 37,
-    "forks_count": 387
+    "forks_count": 388
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 8721,
-    "open_issues_count": 555,
-    "forks_count": 746
+    "stargazers_count": 8727,
+    "open_issues_count": 556,
+    "forks_count": 747
   },
   {
     "full_name": "logickworkshop/Flipper-IRDB",
-    "stargazers_count": 2342,
+    "stargazers_count": 2344,
     "open_issues_count": 6,
     "forks_count": 330
   },
   {
     "full_name": "projectdiscovery/aix",
     "stargazers_count": 303,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 25
   }
 ]
