@@ -1,51 +1,51 @@
 [
   {
     "full_name": "Mordoria/unnamed_game_1_v2",
-    "stargazers_count": 1008,
+    "stargazers_count": 1038,
     "open_issues_count": 2,
-    "forks_count": 96
+    "forks_count": 97
   },
   {
     "full_name": "dannymcc/Granola-to-Obsidian",
     "stargazers_count": 51,
-    "open_issues_count": 7,
-    "forks_count": 7
+    "open_issues_count": 9,
+    "forks_count": 8
   },
   {
     "full_name": "satnaing/terminal-portfolio",
-    "stargazers_count": 678,
+    "stargazers_count": 680,
     "open_issues_count": 1,
     "forks_count": 135
   },
   {
     "full_name": "refined-github/refined-github",
-    "stargazers_count": 29447,
+    "stargazers_count": 29473,
     "open_issues_count": 140,
     "forks_count": 1616
   },
   {
     "full_name": "joelacus/RedditEnhancer",
-    "stargazers_count": 163,
+    "stargazers_count": 165,
     "open_issues_count": 21,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "IBM/ibmdotcom-tutorials",
-    "stargazers_count": 188,
-    "open_issues_count": 0,
-    "forks_count": 70
+    "stargazers_count": 190,
+    "open_issues_count": 1,
+    "forks_count": 71
   },
   {
     "full_name": "openemr/openemr",
-    "stargazers_count": 4390,
+    "stargazers_count": 4416,
     "open_issues_count": 514,
-    "forks_count": 2570
+    "forks_count": 2578
   },
   {
     "full_name": "Kilo-Org/kilocode",
-    "stargazers_count": 11083,
-    "open_issues_count": 478,
-    "forks_count": 1131
+    "stargazers_count": 11198,
+    "open_issues_count": 506,
+    "forks_count": 1157
   },
   {
     "full_name": "mattburesh/bluesky-shortcuts",
@@ -55,25 +55,25 @@
   },
   {
     "full_name": "t3dotgg/vsc-material-but-i-wont-sue-you",
-    "stargazers_count": 675,
+    "stargazers_count": 676,
     "open_issues_count": 15,
     "forks_count": 86
   },
   {
     "full_name": "jlowin/fastmcp",
-    "stargazers_count": 19023,
-    "open_issues_count": 206,
-    "forks_count": 1375
+    "stargazers_count": 19165,
+    "open_issues_count": 185,
+    "forks_count": 1392
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 29645,
-    "open_issues_count": 2513,
-    "forks_count": 1982
+    "stargazers_count": 29696,
+    "open_issues_count": 2528,
+    "forks_count": 1994
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
-    "stargazers_count": 740,
+    "stargazers_count": 741,
     "open_issues_count": 1,
     "forks_count": 104
   },
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "jaku/DEFCON-32-BadgeFirmware",
-    "stargazers_count": 148,
+    "stargazers_count": 149,
     "open_issues_count": 4,
     "forks_count": 27
   },
   {
     "full_name": "jordanbaird/Ice",
-    "stargazers_count": 23355,
-    "open_issues_count": 249,
-    "forks_count": 454
+    "stargazers_count": 23426,
+    "open_issues_count": 253,
+    "forks_count": 457
   },
   {
     "full_name": "httpie/cli",
-    "stargazers_count": 36757,
+    "stargazers_count": 36782,
     "open_issues_count": 217,
-    "forks_count": 3767
+    "forks_count": 3768
   },
   {
     "full_name": "Lissy93/wapalyzer",
     "stargazers_count": 287,
     "open_issues_count": 0,
-    "forks_count": 53
+    "forks_count": 54
   },
   {
     "full_name": "finos/compliant-financial-infrastructure",
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 37495,
-    "open_issues_count": 1542,
-    "forks_count": 1890
+    "stargazers_count": 37589,
+    "open_issues_count": 1551,
+    "forks_count": 1902
   },
   {
     "full_name": "omnivore-app/omnivore",
-    "stargazers_count": 15483,
+    "stargazers_count": 15490,
     "open_issues_count": 357,
-    "forks_count": 1222
+    "forks_count": 1225
   },
   {
     "full_name": "achingbrain/terminatorator",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "bluesky-social/social-app",
-    "stargazers_count": 17009,
-    "open_issues_count": 2107,
-    "forks_count": 2473
+    "stargazers_count": 17028,
+    "open_issues_count": 2104,
+    "forks_count": 2478
   },
   {
     "full_name": "pingdotgg/uploadthing",
-    "stargazers_count": 4908,
+    "stargazers_count": 4910,
     "open_issues_count": 39,
-    "forks_count": 394
+    "forks_count": 396
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 8849,
-    "open_issues_count": 590,
-    "forks_count": 764
+    "stargazers_count": 8854,
+    "open_issues_count": 589,
+    "forks_count": 768
   },
   {
     "full_name": "logickworkshop/Flipper-IRDB",
-    "stargazers_count": 2365,
+    "stargazers_count": 2366,
     "open_issues_count": 6,
-    "forks_count": 330
+    "forks_count": 331
   }
 ]
