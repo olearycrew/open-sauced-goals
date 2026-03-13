@@ -1,39 +1,39 @@
 [
   {
     "full_name": "pinchbench/skill",
-    "stargazers_count": 271,
-    "open_issues_count": 19,
-    "forks_count": 29
+    "stargazers_count": 498,
+    "open_issues_count": 16,
+    "forks_count": 40
   },
   {
     "full_name": "php/php-src",
-    "stargazers_count": 40045,
-    "open_issues_count": 1770,
-    "forks_count": 8018
+    "stargazers_count": 40037,
+    "open_issues_count": 1774,
+    "forks_count": 8011
   },
   {
     "full_name": "openclaw/openclaw",
-    "stargazers_count": 291084,
-    "open_issues_count": 11871,
-    "forks_count": 55167
+    "stargazers_count": 308008,
+    "open_issues_count": 12757,
+    "forks_count": 58355
   },
   {
     "full_name": "Kilo-Org/agentic-path",
-    "stargazers_count": 31,
-    "open_issues_count": 3,
+    "stargazers_count": 32,
+    "open_issues_count": 5,
     "forks_count": 9
   },
   {
     "full_name": "steveyegge/beads",
-    "stargazers_count": 18631,
-    "open_issues_count": 116,
-    "forks_count": 1183
+    "stargazers_count": 18899,
+    "open_issues_count": 25,
+    "forks_count": 1215
   },
   {
     "full_name": "mantoni/beads-ui",
-    "stargazers_count": 470,
-    "open_issues_count": 18,
-    "forks_count": 62
+    "stargazers_count": 490,
+    "open_issues_count": 22,
+    "forks_count": 63
   },
   {
     "full_name": "olearycrew/strandcraft",
@@ -43,45 +43,45 @@
   },
   {
     "full_name": "platformio/platformio-core",
-    "stargazers_count": 8922,
+    "stargazers_count": 8928,
     "open_issues_count": 291,
     "forks_count": 853
   },
   {
     "full_name": "crosspoint-reader/crosspoint-reader",
-    "stargazers_count": 2546,
-    "open_issues_count": 267,
-    "forks_count": 372
+    "stargazers_count": 2587,
+    "open_issues_count": 260,
+    "forks_count": 379
   },
   {
     "full_name": "agentsmd/agents.md",
-    "stargazers_count": 18699,
-    "open_issues_count": 125,
-    "forks_count": 1348
+    "stargazers_count": 18868,
+    "open_issues_count": 123,
+    "forks_count": 1360
   },
   {
     "full_name": "Mordoria/unnamed_game_1_v2",
-    "stargazers_count": 1083,
+    "stargazers_count": 1082,
     "open_issues_count": 1,
     "forks_count": 95
   },
   {
     "full_name": "dannymcc/Granola-to-Obsidian",
-    "stargazers_count": 148,
-    "open_issues_count": 8,
+    "stargazers_count": 152,
+    "open_issues_count": 10,
     "forks_count": 22
   },
   {
     "full_name": "satnaing/terminal-portfolio",
-    "stargazers_count": 745,
+    "stargazers_count": 746,
     "open_issues_count": 1,
     "forks_count": 153
   },
   {
     "full_name": "refined-github/refined-github",
-    "stargazers_count": 30659,
-    "open_issues_count": 111,
-    "forks_count": 1688
+    "stargazers_count": 30688,
+    "open_issues_count": 87,
+    "forks_count": 1690
   },
   {
     "full_name": "joelacus/RedditEnhancer",
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "openemr/openemr",
-    "stargazers_count": 5000,
-    "open_issues_count": 666,
-    "forks_count": 2780
+    "stargazers_count": 5009,
+    "open_issues_count": 682,
+    "forks_count": 2787
   },
   {
     "full_name": "Kilo-Org/kilocode",
-    "stargazers_count": 16442,
-    "open_issues_count": 735,
-    "forks_count": 2118
+    "stargazers_count": 16609,
+    "open_issues_count": 773,
+    "forks_count": 2137
   },
   {
     "full_name": "mattburesh/bluesky-shortcuts",
@@ -115,31 +115,31 @@
   },
   {
     "full_name": "t3dotgg/vsc-material-but-i-wont-sue-you",
-    "stargazers_count": 694,
+    "stargazers_count": 693,
     "open_issues_count": 15,
     "forks_count": 89
   },
   {
     "full_name": "PrefectHQ/fastmcp",
-    "stargazers_count": 23539,
-    "open_issues_count": 229,
-    "forks_count": 1806
+    "stargazers_count": 23638,
+    "open_issues_count": 246,
+    "forks_count": 1818
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 31942,
-    "open_issues_count": 3190,
-    "forks_count": 2372
+    "stargazers_count": 31999,
+    "open_issues_count": 3184,
+    "forks_count": 2385
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
-    "stargazers_count": 751,
+    "stargazers_count": 752,
     "open_issues_count": 2,
     "forks_count": 106
   },
   {
     "full_name": "anatolyzenkov/button-stealer",
-    "stargazers_count": 728,
+    "stargazers_count": 729,
     "open_issues_count": 7,
     "forks_count": 27
   },
@@ -157,19 +157,19 @@
   },
   {
     "full_name": "jordanbaird/Ice",
-    "stargazers_count": 26407,
-    "open_issues_count": 354,
-    "forks_count": 598
+    "stargazers_count": 26482,
+    "open_issues_count": 355,
+    "forks_count": 603
   },
   {
     "full_name": "httpie/cli",
-    "stargazers_count": 37662,
-    "open_issues_count": 249,
-    "forks_count": 3825
+    "stargazers_count": 37698,
+    "open_issues_count": 250,
+    "forks_count": 3829
   },
   {
     "full_name": "Lissy93/wapalyzer",
-    "stargazers_count": 301,
+    "stargazers_count": 302,
     "open_issues_count": 1,
     "forks_count": 57
   },
@@ -177,6 +177,6 @@
     "full_name": "finos/compliant-financial-infrastructure",
     "stargazers_count": 147,
     "open_issues_count": 24,
-    "forks_count": 67
+    "forks_count": 66
   }
 ]
