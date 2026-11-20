@@ -1,15 +1,15 @@
 [
   {
     "full_name": "pingdotgg/t3code",
-    "stargazers_count": 63343,
-    "open_issues_count": 3458,
-    "forks_count": 11207
+    "stargazers_count": 66901,
+    "open_issues_count": 3589,
+    "forks_count": 11630
   },
   {
     "full_name": "mattpocock/skills",
-    "stargazers_count": 326258,
-    "open_issues_count": 249,
-    "forks_count": 27401
+    "stargazers_count": 328408,
+    "open_issues_count": 260,
+    "forks_count": 27594
   },
   {
     "full_name": "wobsoriano/is-jeven",
@@ -19,20 +19,20 @@
   },
   {
     "full_name": "OrchestratorInc/agent-orchestrator",
-    "stargazers_count": 14833,
-    "open_issues_count": 1019,
-    "forks_count": 2040
+    "stargazers_count": 14955,
+    "open_issues_count": 1054,
+    "forks_count": 2059
   },
   {
     "full_name": "ComposioHQ/composio",
-    "stargazers_count": 31123,
-    "open_issues_count": 145,
-    "forks_count": 4956
+    "stargazers_count": 31197,
+    "open_issues_count": 150,
+    "forks_count": 4965
   },
   {
     "full_name": "getkimchi/kimchi",
     "stargazers_count": 2287,
-    "open_issues_count": 57,
+    "open_issues_count": 46,
     "forks_count": 157
   },
   {
@@ -43,27 +43,27 @@
   },
   {
     "full_name": "MemPalace/mempalace",
-    "stargazers_count": 60587,
-    "open_issues_count": 825,
-    "forks_count": 7675
+    "stargazers_count": 60636,
+    "open_issues_count": 833,
+    "forks_count": 7673
   },
   {
     "full_name": "pinchbench/skill",
-    "stargazers_count": 1385,
+    "stargazers_count": 1384,
     "open_issues_count": 26,
     "forks_count": 159
   },
   {
     "full_name": "php/php-src",
-    "stargazers_count": 41788,
-    "open_issues_count": 2341,
-    "forks_count": 8537
+    "stargazers_count": 41845,
+    "open_issues_count": 2379,
+    "forks_count": 8591
   },
   {
     "full_name": "openclaw/openclaw",
-    "stargazers_count": 394618,
-    "open_issues_count": 8240,
-    "forks_count": 82909
+    "stargazers_count": 394867,
+    "open_issues_count": 8574,
+    "forks_count": 82945
   },
   {
     "full_name": "Kilo-Org/agentic-path",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "gastownhall/beads",
-    "stargazers_count": 28794,
-    "open_issues_count": 1812,
-    "forks_count": 1948
+    "stargazers_count": 28855,
+    "open_issues_count": 1777,
+    "forks_count": 1950
   },
   {
     "full_name": "mantoni/beads-ui",
-    "stargazers_count": 771,
+    "stargazers_count": 772,
     "open_issues_count": 49,
-    "forks_count": 113
+    "forks_count": 114
   },
   {
     "full_name": "olearycrew/strandcraft",
@@ -91,25 +91,25 @@
   },
   {
     "full_name": "platformio/platformio-core",
-    "stargazers_count": 9610,
-    "open_issues_count": 290,
+    "stargazers_count": 9617,
+    "open_issues_count": 289,
     "forks_count": 916
   },
   {
     "full_name": "crosspoint-reader/crosspoint-reader",
-    "stargazers_count": 8820,
-    "open_issues_count": 638,
-    "forks_count": 2350
+    "stargazers_count": 8890,
+    "open_issues_count": 635,
+    "forks_count": 2384
   },
   {
     "full_name": "agentsmd/agents.md",
-    "stargazers_count": 25527,
+    "stargazers_count": 25619,
     "open_issues_count": 190,
-    "forks_count": 1965
+    "forks_count": 1976
   },
   {
     "full_name": "Mordoria/unnamed_game_1_v2",
-    "stargazers_count": 1084,
+    "stargazers_count": 1083,
     "open_issues_count": 1,
     "forks_count": 93
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "refined-github/refined-github",
-    "stargazers_count": 32498,
-    "open_issues_count": 88,
-    "forks_count": 1946
+    "stargazers_count": 32520,
+    "open_issues_count": 68,
+    "forks_count": 1949
   },
   {
     "full_name": "joelacus/RedditEnhancer",
@@ -140,20 +140,20 @@
   {
     "full_name": "IBM/ibmdotcom-tutorials",
     "stargazers_count": 271,
-    "open_issues_count": 30,
-    "forks_count": 130
+    "open_issues_count": 34,
+    "forks_count": 131
   },
   {
     "full_name": "openemr/openemr",
-    "stargazers_count": 5605,
-    "open_issues_count": 1215,
-    "forks_count": 3136
+    "stargazers_count": 5611,
+    "open_issues_count": 1213,
+    "forks_count": 3138
   },
   {
     "full_name": "Kilo-Org/kilocode",
-    "stargazers_count": 28029,
-    "open_issues_count": 910,
-    "forks_count": 3365
+    "stargazers_count": 28060,
+    "open_issues_count": 946,
+    "forks_count": 3382
   },
   {
     "full_name": "mattburesh/bluesky-shortcuts",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "t3dotgg/vsc-material-but-i-wont-sue-you",
-    "stargazers_count": 721,
+    "stargazers_count": 722,
     "open_issues_count": 14,
     "forks_count": 92
   },
   {
     "full_name": "PrefectHQ/fastmcp",
-    "stargazers_count": 28605,
+    "stargazers_count": 28683,
     "open_issues_count": 240,
-    "forks_count": 2618
+    "forks_count": 2633
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 40841,
-    "open_issues_count": 4451,
-    "forks_count": 3693
+    "stargazers_count": 40981,
+    "open_issues_count": 4472,
+    "forks_count": 3718
   }
 ]
